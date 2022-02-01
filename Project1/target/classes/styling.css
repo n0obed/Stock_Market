@@ -1,0 +1,8 @@
+.root {
+
+    -fx-font-size: 10pt;
+
+    -fx-background-fill: black, white;
+    -fx-background-insets: 0, 1 ;
+    /*-fx-background-color: #383838;*/
+}
